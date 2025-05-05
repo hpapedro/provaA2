@@ -1,0 +1,8 @@
+/Users/pedroalves/Desktop/provaA2/Prova/Prova1/obj/Debug/net8.0/Prova1.csproj.AssemblyReference.cache
+/Users/pedroalves/Desktop/provaA2/Prova/Prova1/obj/Debug/net8.0/Prova1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedroalves/Desktop/provaA2/Prova/Prova1/obj/Debug/net8.0/Prova1.AssemblyInfoInputs.cache
+/Users/pedroalves/Desktop/provaA2/Prova/Prova1/obj/Debug/net8.0/Prova1.AssemblyInfo.cs
+/Users/pedroalves/Desktop/provaA2/Prova/Prova1/obj/Debug/net8.0/Prova1.csproj.CoreCompileInputs.cache
+/Users/pedroalves/Desktop/provaA2/Prova/Prova1/obj/Debug/net8.0/Prova1.MvcApplicationPartsAssemblyInfo.cs
+/Users/pedroalves/Desktop/provaA2/Prova/Prova1/obj/Debug/net8.0/Prova1.MvcApplicationPartsAssemblyInfo.cache
+/Users/pedroalves/Desktop/provaA2/Prova/Prova1/obj/Debug/net8.0/Prova1.sourcelink.json
